@@ -1,0 +1,47 @@
+body{
+    background-color: #9CB397;
+}
+.p1{
+    text-align: left;
+}
+.p2{
+    text-align: center;
+}
+.p3{
+    text-align: right;
+}
+.p4{
+    color: green;
+}
+.p5{
+    font-family: 'Trebuchet MS';
+}
+.p6{
+    font-size:xxx-large;
+    margin: 0px;
+}
+.p7{
+    color: white;
+    font-family: Arial;
+    font-size: x-small;
+    margin: 16px 0px 16px 0px;
+}
+.p8{
+    margin: 16px 0px 16px 0px; 
+}
+.p9{
+    margin: 16px 0px 16px 0px;
+}
+
+.p10{
+    text-align: center;
+}
+
+.p11{
+    text-align: center;
+}
+
+.demo-img{
+    height: 300px;
+    width: 200px;
+}
